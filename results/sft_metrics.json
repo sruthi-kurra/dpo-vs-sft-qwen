@@ -1,0 +1,10 @@
+{
+  "eval_loss": 1.5751,
+  "eval_entropy": 1.5702,
+  "eval_num_tokens": 1016126,
+  "eval_mean_token_accuracy": 0.6382,
+  "final_train_loss": 1.6011,
+  "epochs": 1,
+  "steps": 141,
+  "effective_batch_size": 16
+}
